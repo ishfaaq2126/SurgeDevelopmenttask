@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "title": "IT tec",
+      "description": "Good"
+    },
+    {
+      "id": 2,
+      "title": "IT sup",
+      "description": "Okay"
+    },
+    {
+      "id": 3,
+      "title": "Software",
+      "description": "Semi"
+    },
+    {
+      "id": 4,
+      "title": "Hardware",
+      "description": "Normal"
+    }
+    
+  ]
+ 
+  
